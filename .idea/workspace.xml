@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b047ddd-f535-4999-b83a-0b6c54a602c8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ljqnmfM029EqjATWptNv2r8Kvn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InstagramAutomation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OpenGoogle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in SeleniumWebDriver.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InstagramAutomationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.InstagramAutomationTest.testInstagramUpload.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.InstagramAutomationTest2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.InstagramAutomation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InstagramAutomationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InstagramAutomationTest.testInstagramAutomation.executor&quot;: &quot;Debug&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mr.Topz/Desktop/SQA/Insta-DP-Change&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Mr.Topz/Desktop/SQA/SeleniumWebDriver/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mr.Topz\Desktop\SQA\InstaLogin\src\test\java" />
+      <recent name="C:\Users\Mr.Topz\Desktop\SQA\SeleniumWebDriver\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InstagramAutomationTest">
+    <configuration name="InstagramAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstagramAutomation" />
+      <module name="SeleniumWebDriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SeleniumWebDriver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstagramAutomationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstagramAutomationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="InstaLogin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="InstaLogin" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstagramAutomationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumWebDriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InstagramAutomationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InstagramAutomationTest" />
+        <item itemvalue="JUnit.All in SeleniumWebDriver" />
+        <item itemvalue="TestNG.InstagramAutomationTest" />
+        <item itemvalue="Application.InstagramAutomation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b047ddd-f535-4999-b83a-0b6c54a602c8" name="Changes" comment="" />
+      <created>1725704006144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725704006144</updated>
+      <workItem from="1725704007022" duration="3136000" />
+      <workItem from="1725707651776" duration="786000" />
+      <workItem from="1725709946815" duration="200000" />
+      <workItem from="1725710390406" duration="2863000" />
+      <workItem from="1725713894843" duration="3427000" />
+      <workItem from="1725732045644" duration="3835000" />
+      <workItem from="1725737593714" duration="16601000" />
+      <workItem from="1725781122737" duration="688000" />
+      <workItem from="1725782276389" duration="1940000" />
+      <workItem from="1725784968271" duration="1684000" />
+      <workItem from="1725786740243" duration="141000" />
+      <workItem from="1725787800854" duration="2532000" />
+      <workItem from="1725793190032" duration="1779000" />
+      <workItem from="1725800184434" duration="5321000" />
+      <workItem from="1725810520903" duration="3674000" />
+      <workItem from="1725816571647" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
